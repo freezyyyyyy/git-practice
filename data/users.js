@@ -1,0 +1,81 @@
+[{
+    "username": "vcronkshaw0",
+    "password": "iZOY7HUufO8f",
+    "role": "user"
+}, {
+    "username": "etolan1",
+    "password": "3KGxavwQ",
+    "role": "user"
+}, {
+    "username": "sbeadel2",
+    "password": "OvNmuOOY6v",
+    "role": "admin"
+}, {
+    "username": "apegram3",
+    "password": "A1h4FFeMdgG",
+    "role": "admin"
+}, {
+    "username": "pglede4",
+    "password": "5bq3llqn",
+    "role": "admin"
+}, {
+    "username": "nmcrobert5",
+    "password": "1mykZnxkzZFY",
+    "role": "user"
+}, {
+    "username": "cnorthin6",
+    "password": "FkC05IbW",
+    "role": "user"
+}, {
+    "username": "mboyen7",
+    "password": "La1cUWr0KN6",
+    "role": "user"
+}, {
+    "username": "cwhitemarsh8",
+    "password": "tLFfSwFJe",
+    "role": "user"
+}, {
+    "username": "rabelov9",
+    "password": "AGANHFeuA73",
+    "role": "user"
+}, {
+    "username": "gduboisa",
+    "password": "A2htuY",
+    "role": "user"
+}, {
+    "username": "hdumbreckb",
+    "password": "E27SpFaqP5A",
+    "role": "admin"
+}, {
+    "username": "llucioc",
+    "password": "X6O6KYSK0",
+    "role": "admin"
+}, {
+    "username": "nwurzd",
+    "password": "aNdPUxmGpVfC",
+    "role": "user"
+}, {
+    "username": "hhawksworthe",
+    "password": "hjVEF1Pny",
+    "role": "admin"
+}, {
+    "username": "liorizzif",
+    "password": "0YqxdarheH",
+    "role": "admin"
+}, {
+    "username": "vtappingg",
+    "password": "SObGwpuBE",
+    "role": "admin"
+}, {
+    "username": "czealanderh",
+    "password": "BcM1ulJ0x",
+    "role": "user"
+}, {
+    "username": "gcreelmani",
+    "password": "rfLtSMH1AW8q",
+    "role": "admin"
+}, {
+    "username": "iwintonj",
+    "password": "v6gAe1HJ",
+    "role": "admin"
+}]
