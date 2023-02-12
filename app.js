@@ -6,16 +6,16 @@ app.set('view engine', 'pug')
 app.use(express.static('public'))
 
 const asdf = {
-    title: 'HEyz', 
+    title: 'HEyz',
     turb: 'Mongoose',
     message: '54Ya 4lAyyy 131ngitzzz',
     paragraph: 'zaya k4muuu zayankkkk'
 }
 
 app.get('/', (req, res) => {
-    res.render('index', asdf);    
+    res.render('index', asdf);
 })
 
-app.listen(port, ()=> {
-    console.log(`Listening ${port}`);
+app.listen(port, () => {
+    console.log(`Listening http://localhost:${port}`);
 })
