@@ -4,7 +4,9 @@ const mongoose = require('mongoose')
 const port = 3000
 
 app.set('view engine', 'pug')
+app.use(express.urlencoded({ extended: true }))
 app.use(express.static('public'))
+
 
 main().catch(err => console.log(err));
 
@@ -37,5 +39,3 @@ async function main() {
         console.log(`Listening ${port}`);
     })
 }
-
-
